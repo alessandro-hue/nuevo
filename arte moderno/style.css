@@ -28,7 +28,7 @@ flex: 3;
 
 }
 .blue{
-    background-color: blue;
+    background-color:blue;
     width: 100%;
     height: 220px;
     margin-top: 30px;
@@ -67,3 +67,10 @@ flex: 3;
     background-color: yellow;
     height: 110px;
 }
+
+
+
+
+
+git config --global user.email "alessandroespinoza@liceovvh.cl"
+git config --global user.name "alessandro-hue "
